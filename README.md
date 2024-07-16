@@ -1,6 +1,6 @@
-# Hackintosh, MOBOXXXX, CPUXXXXXXX, GPUXXXXXX
+# Hackintosh, MSI MAG B760M Mortar WiFi DDR4, Intel Core i7 14700K, AMD Radeon RX 6600 XT
 
-!!!OVERVIEW!!!
+![Overview](https://github.com/user-attachments/assets/03d45321-421f-478e-a1f4-3b7e8979e84e)
 
 # Basic Information
 
